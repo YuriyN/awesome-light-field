@@ -21,6 +21,7 @@ A curated list of awesome light field resources
 - [EPINET: A Fully-Convolutional Neural Network using Epipolar Geometry for Depth from Light Field Images](https://github.com/chshin10/epinet)
 - [Efficient Light Field Reconstruction via Spatio-Angular Dense Network](https://github.com/huzexi/SADenseNet)
 - [Empirical Bayesian Light-Field Stereo Matching by Robust Pseudo Random Field Modeling](https://www.ee.nthu.edu.tw/chaotsung/rprf/index.html)
+- [Fast Light-field Disparity Estimation with Multi-disparity-scale Cost Aggregation](https://github.com/zcong17huang/FastLFnet)
 - [High-Dimensional Dense Residual Convolutional Neural Network for Light Field Reconstruction](https://github.com/monaen/LightFieldReconstruction)
 - [Intrinsic Light Field Decomposition and Disparity Estimation with a Deep Encoder-Decoder Network](https://github.com/cvia-kn/lf_autoencoder_cvpr2018_code)
 - [LFattNet: Attention-based View Selection Networks for Light-field Disparity Estimation](https://github.com/LIAGM/LFattNet)
