@@ -1,6 +1,15 @@
 # Awesome Light Field: [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 A curated list of awesome light field resources
 
+> Light field is a scene representation, described as a set of light rays in captured space, created by shifted full-size or micro-lenses 
+
+## Basics
+- _Gershun, The Light Field_ — first theorhetical description of a light field
+- _Bolles et al., Epipolar-plane image analysis: An approach to determining structure from motion_ — first appearance and theory of epipolar-plane images, the important structure for light field analysis
+- _Adelson and Bergen, The Plenoptic Function and the Elements of Early Vision_ — light field reformulation in a more convenient way
+- _Levoy and Hanrahan, Light Field Rendering_ — two-plane parameterization of light field
+- _Ng et al., Light Field Photography with a Hand-held Plenoptic Camera_ — description of a first plenoptic camera
+
 ## Algorithms
 
 ### Depth Estimation
