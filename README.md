@@ -25,6 +25,7 @@ A curated list of awesome light field resources
 - [Fast Light-field Disparity Estimation with Multi-disparity-scale Cost Aggregation](https://github.com/zcong17huang/FastLFnet)
 - [High-Dimensional Dense Residual Convolutional Neural Network for Light Field Reconstruction](https://github.com/monaen/LightFieldReconstruction)
 - [Intrinsic Light Field Decomposition and Disparity Estimation with a Deep Encoder-Decoder Network](https://github.com/cvia-kn/lf_autoencoder_cvpr2018_code)
+- [Learning Sheared EPI Structure for Light Field Reconstruction](https://github.com/GaochangWu/Sheared-EPI)
 - [LFattNet: Attention-based View Selection Networks for Light-field Disparity Estimation](https://github.com/LIAGM/LFattNet)
 - [MANet: Multi-scale Aggregated Network For Light Field Depth Estimation](https://github.com/YanWQ/MANet)
 - [Occlusion-Aware Cost Constructor for Light Field Depth Estimation](https://github.com/YingqianWang/OACC-Net)
