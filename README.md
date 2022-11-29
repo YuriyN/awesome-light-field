@@ -26,17 +26,21 @@ A curated list of awesome light field resources
 - [High-Dimensional Dense Residual Convolutional Neural Network for Light Field Reconstruction](https://github.com/monaen/LightFieldReconstruction)
 - [Intrinsic Light Field Decomposition and Disparity Estimation with a Deep Encoder-Decoder Network](https://github.com/cvia-kn/lf_autoencoder_cvpr2018_code)
 - [Learning Sheared EPI Structure for Light Field Reconstruction](https://github.com/GaochangWu/Sheared-EPI)
+- [Learning to Think Outside the Box: Wide-Baseline Light Field Depth Estimation with EPI-Shift](https://github.com/titus-leistner/epi-shift)
 - [LFattNet: Attention-based View Selection Networks for Light-field Disparity Estimation](https://github.com/LIAGM/LFattNet)
 - [MANet: Multi-scale Aggregated Network For Light Field Depth Estimation](https://github.com/YanWQ/MANet)
 - [Occlusion-Aware Cost Constructor for Light Field Depth Estimation](https://github.com/YingqianWang/OACC-Net)
 - [On Linear Structure from Motion for Light Field Cameras](https://publications.lightfield-analysis.net/)
 - [Robust Depth Estimation for Light Field via Spinning Parallelogram Operator](https://github.com/shuozh/Spinning-Parallelogram-Operator)
+- [Variational light field analysis for disparity estimation and super-resolution](https://github.com/GilbertRC/Light-Field-Structure-Tensor-Depth-Estimation)
+
 ### Denoising
 - [Light Field Denoising by Sparse 5D Transform Domain Collaborative Filtering](https://github.com/V-Sense/LFBM5D)
 
 ### Novel view synthesis
 - [Learning to Synthesize a 4D RGBD Light Field from a Single Image](https://github.com/pratulsrinivasan/Local_Light_Field_Synthesis)
 - [Local Light Field Fusion](https://github.com/Fyusion/LLFF)
+- [Multi-Angular Epipolar Geometry Based Light Field Angular Reconstruction Network](https://github.com/ldyorchid/Multi_Angular_Epipolar_Geometry_Based_Light_Field_Angular_Reconstruction_Network)
 
 ### Super-resolution
 - [DistgSSR: Disentangling Mechanism for Light Field Statial Super-Resolution](https://github.com/YingqianWang/DistgSSR)
