@@ -32,6 +32,7 @@ A curated list of awesome light field resources
 - [Occlusion-Aware Cost Constructor for Light Field Depth Estimation](https://github.com/YingqianWang/OACC-Net)
 - [On Linear Structure from Motion for Light Field Cameras](https://publications.lightfield-analysis.net/)
 - [Robust Depth Estimation for Light Field via Spinning Parallelogram Operator](https://github.com/shuozh/Spinning-Parallelogram-Operator)
+- [Unsupervised disparity estimation from light field using plug-and-play weighted warping loss](https://www.fujii.nuee.nagoya-u.ac.jp/Research/LFDepth/)
 - [Variational light field analysis for disparity estimation and super-resolution](https://github.com/GilbertRC/Light-Field-Structure-Tensor-Depth-Estimation)
 
 ### Denoising
