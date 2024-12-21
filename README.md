@@ -48,6 +48,9 @@ A curated list of awesome light field resources
 |Learning to Synthesize a 4D RGBD Light Field from a Single Image|||https://github.com/pratulsrinivasan/Local_Light_Field_Synthesis|
 |Local Light Field Fusion|||https://github.com/Fyusion/LLFF|
 |Multi-Angular Epipolar Geometry Based Light Field Angular Reconstruction Network|||https://github.com/ldyorchid/Multi_Angular_Epipolar_Geometry_Based_Light_Field_Angular_Reconstruction_Network|
+|Real-Time Light Field Video Focusing and GPU Accelerated Streaming|||https://github.com/dormon/3DApps/blob/master/src/lightfieldPlayer.cpp|
+|Lightweight All-Focused Light Field Rendering|||https://www.fit.vutbr.cz/~ichlubna/lf|
+|Efficient Random-Access GPU Video Decoding for Light-Field Rendering|||https://github.com/ichlubna/lfEncoding|
 
 ### Super-resolution
 | Title | Year | Framework | Link |
