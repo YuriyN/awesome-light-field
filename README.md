@@ -41,6 +41,7 @@ A curated list of awesome light field resources
 | Title | Year | Framework | Link |
 |-------|------|-----------|------|
 |Light Field Denoising by Sparse 5D Transform Domain Collaborative Filtering|||https://github.com/V-Sense/LFBM5D|
+|Robust Dense Light Field Reconstruction from Sparse Noisy Sampling|2021||https://github.com/sunshineHDU/NoisyLFRecon|
 
 ### Novel view synthesis
 | Title | Year | Framework | Link |
@@ -61,6 +62,7 @@ A curated list of awesome light field resources
 |Light Field Super-Resolution By Jointly Exploiting Internal and External Similarities|||https://github.com/Joechann0831/LFSR-FusNet|
 |Residual Networks for Light Field Image Super-Resolution|||https://github.com/wxywhu/demo-resLF|
 |Spatial-Angular Interaction for Light Field Image Super-Resolution|||https://github.com/YingqianWang/LF-InterNet|
+|Light Field Spatial Super-resolution Using Deep Efficient Spatial-Angular Separable Convolution|||https://github.com/jingjin25/LFSSR-SAS-PyTorch|
 
 ### Other 
 - [CocoLib](http://cocolib.net/)
